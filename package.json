@@ -1,5 +1,5 @@
 {
-  "name": "module-13-challenge-orm",
+  "name": "orm-e-commerce",
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
@@ -14,15 +14,15 @@
     "url": "git@work.github.com:coding-boot-camp/module-13-challenge-orm.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "Cory Neel",
   "license": "ISC",
   "devDependencies": {
-    "nodemon": "^2.0.3"
+    "nodemon": "^2.0.7"
   },
   "dependencies": {
     "dotenv": "^8.2.0",
     "express": "^4.17.1",
-    "mysql2": "^2.1.0",
-    "sequelize": "^5.21.7"
+    "mysql2": "^2.2.5",
+    "sequelize": "^5.22.4"
   }
 }
