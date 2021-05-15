@@ -41,7 +41,7 @@ router.get('/:id', (req, res) => {
   })
   .then(dbTagData => {
     if (!dbTagData) {
-      res.status(404).json({ message: 'No post found with this id' });
+      res.status(404).json({ message: 'A post with this ID was not found. 🤷‍♂' });
       return;
     }
     res.json(dbTagData);
@@ -71,7 +71,7 @@ router.put('/:id', (req, res) => {
   })
   .then(dbTagData => {
     if (!dbTagData[0]) {
-      res.status(404).json({ message: 'No user found with this id' });
+      res.status(404).json({ message: 'A user with this ID was not found. 🤷‍♂' });
       return;
     }
     res.json(dbTagData);
@@ -90,7 +90,7 @@ router.delete('/:id', (req, res) => {
   })
   .then(dbTagData => {
     if (!dbTagData) {
-      res.status(404).json({ message: 'No user found with this id' });
+      res.status(404).json({ message: 'A user with this ID was not found. 🤷‍♂' });
       return;
     }
     res.json(dbTagData);
