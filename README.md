@@ -2,7 +2,7 @@
 
 A back end app for an e-commerce site utilizing an Express.js API and Sequelize to interact with a MySQL database.
 
-SCREENSHOT
+![Screenshot (41)](https://user-images.githubusercontent.com/72768374/118352044-e1ff7f00-b524-11eb-88af-a0d141a7421b.png)
 
 ## Table of Contents
   * [User Story](#user-story)
