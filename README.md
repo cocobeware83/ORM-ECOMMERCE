@@ -20,8 +20,7 @@ SO THAT my company can compete with other e-commerce companies
 
 ## Walkthrough Video
 ***
-[YouTube Walkthrough]()
-
+[YouTube Walkthrough](https://drive.google.com/file/d/1nmuq56oiRkDOfQ_-DNwSujDFii4JMaHk/view)
 
 
 ## Installation and Usage
